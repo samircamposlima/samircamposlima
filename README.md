@@ -3,7 +3,6 @@
 
 - 🔭 Atualmente estou trabalhando com você 🫵🏽
 - 🌱 Atualmente estou aprendendo, Desenvolvimento Full Stack
-- 📫 Como chegar até mim: samircamposlima@gmail.com
 - 😄 Pronomes: ele/dele
 
 <div>
