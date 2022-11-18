@@ -12,8 +12,6 @@
 </div>
 <div style = "display: inline_block"><br>
           <img aling = "center" alt = "Samir-Python" heigth = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</ div>
-  <div style = "display: inline_block"><br>
           <img aling = "center" alt = "Samir-Python" heigth = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </ div>
 
