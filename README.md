@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou trabalhando com você 🫵🏽
-- 🌱 Atualmente estou aprendendo, Desenvolvimento Full Stack
+- 🌱 Atualmente estou aprendendo, Desenvolvimento React Native
 - 😄 Pronomes: ele/dele
 
 <div>
