@@ -1,8 +1,6 @@
 ### Olá! Eu sou Samir Campos Lima👋
 
-
-- 🔭 Atualmente estou trabalhando com você 🫵🏽
-- 🌱 Atualmente estou aprendendo, Desenvolvimento React Native
+Desenvolvedor Full Stack em transição ativa | Node.js · React Native · TypeScript · Prisma · PostgreSQL | Construindo FleetPoint (app de gestão de frota) e FinanceCore (pipeline OCR para processamento de comprovantes bancários)
 
 
    
